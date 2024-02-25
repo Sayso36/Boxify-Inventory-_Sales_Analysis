@@ -1,4 +1,4 @@
-Project Title - ANALYSIS OF BOXIFY INVENTORY AND SALES (1900 - 2018)
+Project Title - ANALYSIS OF BOXIFY INVENTORY AND SALES DATA (1900 - 2018)
 
 Overview - The project focus on analyzing a dataset containing information about product sales and inventory levels. The dataset includes details such as SKU numbers, sold counts, item counts, release years, etc. The objective is to gain insights into inventory management, identifying top-selling products, understanding sales trends, and deriving key performance indicators (KPIs) related to inventory turnover, stock-to-sales ratio, and reorder points of the year from 1900 to 2018. The main focus of the project is to analyze sales over trend and inventory performance for better business management efficiency.
 
